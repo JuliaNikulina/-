@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\bin\Debug\net6.0\Version control.exe
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\bin\Debug\net6.0\Version control.deps.json
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\bin\Debug\net6.0\Version control.runtimeconfig.json
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\bin\Debug\net6.0\Version control.dll
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\bin\Debug\net6.0\Version control.pdb
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\obj\Debug\net6.0\Version control.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\obj\Debug\net6.0\Version control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\obj\Debug\net6.0\Version control.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\obj\Debug\net6.0\Version control.AssemblyInfo.cs
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\obj\Debug\net6.0\Version control.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\obj\Debug\net6.0\Version control.dll
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\obj\Debug\net6.0\refint\Version control.dll
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\obj\Debug\net6.0\Version control.pdb
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\obj\Debug\net6.0\Version control.genruntimeconfig.cache
+C:\Users\User\Desktop\Итоговая проверочная работа\Version control\obj\Debug\net6.0\ref\Version control.dll
